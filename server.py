@@ -4,13 +4,13 @@ from twilio.util import TwilioCapability
 import twilio.twiml
 
 # Account Sid and Auth Token can be found in your account dashboard
-ACCOUNT_SID = 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-AUTH_TOKEN = 'YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+ACCOUNT_SID = 'ACf224c6547cfc5cd82b19aa48588420d5'
+AUTH_TOKEN = '39bf16fc355ce63aad1e72ea104f6b12'
 
 # TwiML app outgoing connections will use
-APP_SID = 'APZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ'
+APP_SID = 'APda6915d166048b47846c93588a0d2464'
 
-CALLER_ID = '+12345678901'
+CALLER_ID = '+19526886255'
 CLIENT = 'jenny'
 
 app = Flask(__name__)
